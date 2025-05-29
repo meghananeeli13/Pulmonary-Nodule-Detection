@@ -1,4 +1,4 @@
-#Enhancing Pulmonary Nodule Detection in 3D CT Scans with YOLOv7 for Improved Lung Cancer Diagnosis
+# Enhancing Pulmonary Nodule Detection in 3D CT Scans with YOLOv7 for Improved Lung Cancer Diagnosis
 ---
 
 ## 1. Project Overview
