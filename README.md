@@ -111,10 +111,10 @@ Future improvements include:
 
 The figure below shows the preprocessing pipeline applied to the CT scan slices, including the original image, normalization, and Gaussian smoothing.
 
-![Image Preprocessing](Screenshot%202026-07-20%20233503.png)
+![Image Preprocessing](images/Screenshot 2026-07-20 233503.png)
 
 ### Bounding Box Annotation
 
 The generated bounding boxes represent pulmonary nodule locations converted into YOLO annotation format for object detection.
 
-![Bounding Box Annotation](Screenshot%202025-05-12%20135958.png)
+![Bounding Box Annotation](images/Screenshot 2026-07-20 233503.png)
